@@ -1,5 +1,7 @@
 [Download](https://bit.ly/39hEyUD)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H3CCL9P)
+
 # TR-707
 Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 30 WAV Files / 1.4MB Zip
 

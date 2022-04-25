@@ -1,8 +1,6 @@
 Download link : bit.ly/3OBgHzb
 # TR-707
 
-This kit contains "accent" files,
-
 - 01_Bass_Drum_1.wav
 - 02_Bass_Drum_2.wav
 - 03_SNare_Drum_1.wav

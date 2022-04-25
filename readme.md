@@ -1,4 +1,6 @@
-Download link : bit.ly/3OBgHzb
+Download : bit.ly/3OBgHzb
+
+Donate : paypal.me/samplivor
 # TR-707
 
 - 01_Bass_Drum_1.wav

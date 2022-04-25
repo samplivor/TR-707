@@ -1,4 +1,4 @@
-[Download](https://bit.ly/39hEyUD) | [Donate](https://www.paypal.me/samplivor)
+[Download](https://bit.ly/39hEyUD)
 
 # TR-707
 

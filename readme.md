@@ -1,6 +1,7 @@
 [Download](https://bit.ly/39hEyUD)
 
 # TR-707
+Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 30 WAV Files / 1.4MB Zip
 
 - 01_Bass_Drum_1.wav
 - 02_Bass_Drum_2.wav

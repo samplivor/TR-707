@@ -5,6 +5,8 @@
 # TR-707
 Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 30 WAV Files / 1.4MB Zip
 
+I recorded all sounds with their *accents*, they are pretty much all the same as the original sound, exept for toms, their decay curve is a little longer.
+
 - 01_Bass_Drum_1.wav
 - 02_Bass_Drum_2.wav
 - 03_SNare_Drum_1.wav

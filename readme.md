@@ -1,6 +1,6 @@
-[Download](https://bit.ly/39hEyUD)
+### These samples are free but your support is always welcome!
 
-[Donate](https://www.paypal.com/donate/?hosted_button_id=ASWDQ37Y4XFCQ)
+[Download](https://bit.ly/39hEyUD) | [Name your own price](https://www.paypal.com/donate/?hosted_button_id=ASWDQ37Y4XFCQ)
 
 # TR-707
 Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 30 WAV Files / 1.4MB Zip
